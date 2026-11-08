@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# 專案：HASYv2 原始下載檔（由 prepare_data.py 自動下載）
+data_raw/

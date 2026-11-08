@@ -1,0 +1,5 @@
+torch>=2.0
+numpy
+scikit-learn>=1.0
+matplotlib
+pillow
